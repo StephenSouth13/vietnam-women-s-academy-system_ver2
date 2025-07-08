@@ -1,5 +1,5 @@
 # 🇻🇳 Hệ thống Chấm điểm Rèn luyện - Học viện Phụ nữ Việt Nam Version 2
-LINK DEMO:https://vietnam-women-s-academy-system-ver2.onrender.com/
+
 >ĐĂNG NHẬP CHUNG:
 ![image](https://github.com/user-attachments/assets/bf151f18-c21c-4777-b7f2-b485e90e5b45)
 
